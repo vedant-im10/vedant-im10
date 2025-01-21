@@ -17,7 +17,7 @@ I'm **Vedant Patel**, a passionate Master's student in Computer Science at the *
   - Developed web and mobile applications, focusing on performance optimization and user engagement.
 
 ### 🔭 Current Focus:
-I'm actively seeking internship or co-op opportunities for **Spring 2024**, and open to **full-time roles** starting **May 2025**. I'm excited to take on new challenges in cutting-edge tech projects, especially in the domains of AI, machine learning, and full-stack development.
+I'm actively seeking **full-time roles** starting **May 2025**. I'm excited to take on new challenges in cutting-edge tech projects, especially in the domains of AI, machine learning, software development and full-stack development.
 
 Feel free to explore my GitHub repositories, and don’t hesitate to connect with me for any collaboration or exciting opportunities!
 
