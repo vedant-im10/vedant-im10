@@ -9,7 +9,7 @@ I'm **Vedant Patel**, a passionate Master's student in Computer Science at the *
 - **Machine Learning & AI:** Experienced with health analytics and cardiovascular disease prediction models
 -->
 ### 📚 Professional Experience:
-- **Full Stack Developer & UI/UX Designer at Kintsugi Global, Inc.**
+- **Full Stack Developer Intern at Kintsugi Global, Inc.**
   - Designed and developed web and mobile solutions for the marketplace and music platforms.
 - **Machine Learning Intern at Indian Institute of Public Health Gandhinagar**
   - Built machine learning models for cardiovascular disease prediction using medical data.
